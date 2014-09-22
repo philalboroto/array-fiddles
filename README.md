@@ -14,4 +14,4 @@ Array Fiddles
 * **copyAndAdd** http://jsfiddle.net/nm5Q7/
 * **compact:** http://jsfiddle.net/kcmLh/
 
-If you finish all the fiddes, do the 'aboutArrays' section of the Koans here https://github.com/devmountain/js-koans
+If you finish all the fiddles, do the 'aboutArrays' section of the Koans here https://github.com/devmountain/js-koans
